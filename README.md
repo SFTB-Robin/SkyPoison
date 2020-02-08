@@ -7,3 +7,8 @@ Folgendes Format:
 
 Name des Vorschlages: [NAME]
 Beschreibung: [BESCHREIBUNG]
+
+
+Name des Vorschlages:/support
+
+Beschreibung: Ingame Privat Supportchat.
